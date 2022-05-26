@@ -5,9 +5,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<title>Insert title here2</title>
 </head>
 <body>
-<h1>deploy1</h1>
+<h1>deploy_ver.02</h1>
 </body>
 </html>

@@ -34,7 +34,7 @@
 			<artifactId>tomcat-maven-plugin</artifactId>
 			<version>1.1</version>
 			<configuration>
-				<url>http://localhost:8094/manager/text</url>
+				<url>http://localhost:8089/manager/text</url>
 				<path>/20220526_test_yhl</path>
 				<username>admin</username>
 				<password>admin</password>
